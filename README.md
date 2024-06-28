@@ -1,6 +1,6 @@
 # Applications-of-Image-Processing
 ## About
-  In this project we have developed algorithms to to segment out regions in images and produce masked images, and to enhance the quality 
+  In this project I have developed algorithms to segment out regions in images and produce mask images, and to enhance the quality 
   of two images when mergerd (flash and non-flash images) and to detect material by analysing spectrogram obtained by sound of the 
   material and implemented hough transformation and k- mean clusturing and algorithms like DCT to detect counterfeit images.
 ## Technologies required
